@@ -32,7 +32,7 @@ def print_logo():
        ███████╗██╔╝╚██╗██║██║░░░░░░░░██║░░░
        ╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
    \033[0m""")
-    print("       Image data extractor - TheJuicePapi")
+    print("       Image data extractor - WastelandSYS")
 
 def print_options_menu():
     print("\033[1;34m" + """\
