@@ -37,7 +37,7 @@ INSTALLATION & USAGE
 
 Git clone installation:
 
-1. 'git clone https://github.com/TheJuicePapi/exify.git'
+1. 'git clone https://github.com/WastelandSYS/exify.git'
 2. 'cd exify'
 3. 'sudo chmod +x install.sh exify.py'
 4. 'sudo ./install.sh'
